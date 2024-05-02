@@ -1,5 +1,8 @@
 ﻿namespace Algorithms.String;
 
+/// <summary>
+/// 1768. Merge Strings Alternately
+/// </summary>
 public class Task1
 {
     public static string MergeAlternately(string word1, string word2)
